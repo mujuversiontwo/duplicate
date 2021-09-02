@@ -33,7 +33,7 @@ Presently supported media  types are documents video and audio.
 
 Create a `config.py` with the above variables (Refer sample_config.py)
 ```
-git clone https://github.com/m4mallu/uniquify
+git clone https://github.com/mujuversiontwo/duplicate
 cd uniquify
 virtualenv -p python3 venv
 . ./venv/bin/activate
